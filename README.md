@@ -27,7 +27,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```javascript
-// İbrahim'in Yetenekleri ve Araçları
+//<div align="center">
+  <h1>إبراهيم فرحان</h1>
+</div>
 
 class FrontendDeveloper {
   constructor() {
