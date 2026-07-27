@@ -7,8 +7,7 @@
 
   <br><br>
 
-  <!-- استبدل YOUR_GITHUB_USERNAME باسم حسابك على GitHub -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?ibrahimfrhan=YOUR_GITHUB_USERNAME&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
